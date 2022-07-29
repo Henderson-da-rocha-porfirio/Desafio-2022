@@ -5,7 +5,7 @@
 | Software | Versão |
 | :--- | :---: |
 | `Java` | 11 |
-| `Spring` | 2.7.2 |
+| `Spring Boot` | 2.7.2 |
 ### Dependências:
 | Dependências |             utilidade             |
 |:-------------|:---------------------------------:|
