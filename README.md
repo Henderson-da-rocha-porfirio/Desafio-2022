@@ -6,6 +6,12 @@
 | :--- | :---: |
 | `Java` | 11 |
 | `Spring` | 2.7.2 |
+### Dependências:
+| Dependências |             utilidade             |
+|:-------------|:---------------------------------:|
+| `Spring Web`       | Para rodar um endpoint simples |
+| `Lombok`     |       Diminui Boiler Plate        |
+| `Commons CSV`       |    Para Ler e Escrever CSV   |
 
 ###
 ### 1. Cenário de Negócio:
